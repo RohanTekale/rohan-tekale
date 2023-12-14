@@ -39,7 +39,8 @@ Recent Electronics and Telecommunication Engineering graduate from Pune Universi
   - Project: Business Intelligence Transformation for AdventureWorks Cycles.
 
 <div align="center">
-	<img src="python.jpeg">
+	<img src="python.jpeg" width="50" height="50">
 </div>
+
 
 
