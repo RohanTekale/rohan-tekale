@@ -2,7 +2,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="Heading.gif" width="100" height="100">
+	<img src="Heading.gif" width="50" height="50">
 </div>
 
 
