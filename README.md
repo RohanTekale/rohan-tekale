@@ -39,8 +39,13 @@ Recent Electronics and Telecommunication Engineering graduate from Pune Universi
   - Project: Business Intelligence Transformation for AdventureWorks Cycles.
 
 <div align="center">
-	<img src="python.jpeg" width="50" height="50">
+  <img src="python.jpeg" width="50" height="50" style="margin-right: 10px;">
+  <img src="my sql.jpeg" width="50" height="50" style="margin-right: 10px;">
+  <img src="power bi.jpeg" width="50" height="50" style="margin-right: 10px;">
+  <img src="excel.jpeg" width="50" height="50" style="margin-right: 10px;">
+  <img src="tableau.jpeg" width="50" height="50">
 </div>
+
 
 
 
