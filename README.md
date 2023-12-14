@@ -1,9 +1,6 @@
 ### Hi there 👋
 # Welcome to my github! 👋
 
-<div align="center">
-	<img src="Heading.gif" width="420" height="420">
-</div>
 
 
 
