@@ -2,8 +2,9 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="Heading.gif">
+	<img src="Heading.gif" width="100" height="100">
 </div>
+
 
 
 ## About Me 🎓
