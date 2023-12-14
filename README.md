@@ -38,4 +38,8 @@ Recent Electronics and Telecommunication Engineering graduate from Pune Universi
    - Microsoft Power BI Desktop for Business Intelligence.
   - Project: Business Intelligence Transformation for AdventureWorks Cycles.
 
+<div align="center">
+	<img src="python.gif">
+</div>
+
 
